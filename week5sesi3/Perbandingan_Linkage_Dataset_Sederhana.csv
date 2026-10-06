@@ -1,0 +1,4 @@
+Metode,Tinggi Penggabungan Terakhir,Kelompok saat k=3
+single,2.5,"{a, b} | {c} | {d, e, f}"
+complete,5.656854249492381,"{a, b} | {c} | {d, e, f}"
+average,3.8259207065566625,"{a, b} | {c} | {d, e, f}"
